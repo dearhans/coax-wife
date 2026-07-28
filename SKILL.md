@@ -4,8 +4,10 @@ author: 陈策 (Chen Ce)
 github: https://github.com/dearhans
 tagline: 老婆生气了，赶紧用这个哄她
 tagline_en: She's upset? Use this. Now.
-description: 哄老婆开心——中国夫妻/情侣日常相处、冷战破冰、情绪疏导与矛盾化解的高情商沟通技能。基于依恋理论(EFT)、戈特曼修复尝试、非暴力沟通(NVC)与中国语境实战经验，提供可落地的结构化话术与行动方案。触发词："哄老婆""老婆生气了""冷战怎么办""吵架了怎么和好""媳妇不开心""怎么道歉""她不理我了""老婆情绪不好""惹老婆生气了""怎么让老婆消气""女朋朋友生气了""伴侣冷战"。当用户描述与女性伴侣发生矛盾、需要化解冲突、安抚情绪、打破冷战僵局时使用。
-description_en: Coax Your Wife — a high-EQ communication skill for navigating couple conflicts, cold wars, and emotional disconnection. Built on EFT (Emotionally Focused Therapy), Gottman's repair attempts, and Nonviolent Communication (NVC), adapted for real-life relationship dynamics. Provides structured scripts, action plans, and a "what NOT to say" kill list. Trigger keywords: "wife mad" "cold war" "how to apologize" "she's upset" "relationship fight" "girlfriend ignoring me" "couple conflict" "how to make up".
+description: |
+  哄老婆开心——中国夫妻/情侣日常相处、冷战破冰、情绪疏导与矛盾化解的高情商沟通技能。基于依恋理论(EFT)、戈特曼修复尝试、非暴力沟通(NVC)与中国语境实战经验，提供可落地的结构化话术与行动方案。触发词："哄老婆""老婆生气了""冷战怎么办""吵架了怎么和好""媳妇不开心""怎么道歉""她不理我了""老婆情绪不好""惹老婆生气了""怎么让老婆消气""女朋朋友生气了""伴侣冷战"。当用户描述与女性伴侣发生矛盾、需要化解冲突、安抚情绪、打破冷战僵局时使用。
+description_en: |
+  Coax Your Wife — a high-EQ communication skill for navigating couple conflicts, cold wars, and emotional disconnection. Built on EFT (Emotionally Focused Therapy), Gottman's repair attempts, and Nonviolent Communication (NVC), adapted for real-life relationship dynamics. Provides structured scripts, action plans, and a "what NOT to say" kill list. Trigger keywords: "wife mad" "cold war" "how to apologize" "she's upset" "relationship fight" "girlfriend ignoring me" "couple conflict" "how to make up".
 ---
 
 > **English Abstract / 英文摘要**：This skill is a battle-tested, psychology-rooted communication coach for men navigating relationship conflicts. When your wife or girlfriend is upset, it decodes her hidden emotions (EFT), generates context-aware scripts (Gottman + NVC), and warns you which words will make everything worse. 76.1/100 quality score after 4 rounds of Darwin optimization. Install: `npx skills add dearhans/coax-wife -g -y`
